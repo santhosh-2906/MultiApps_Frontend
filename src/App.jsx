@@ -11,7 +11,7 @@ import Expenses from "./pages/Expenses";
 import Calculator from "./pages/Calculator";
 import BMI from "./pages/BMI";
 import Currency from "./pages/Currency";
-import Home from "./pages/home";
+import Home from "./pages/Home";
 const App = () => {
   return (
     <Router>
