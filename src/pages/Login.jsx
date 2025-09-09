@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import { useNavigate, Link } from "react-router-dom";
 
 const API_URL = import.meta.env.VITE_API_URL;
-
+console.log(import.meta.env.VITE_API_URL);
 const Login = () => {
   const navigate = useNavigate();
   const [username, setUsername] = useState("");
