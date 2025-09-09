@@ -1,5 +1,4 @@
-# Utility Hub - Frontend
-
+# Utility Hub -- A multi app platform
 This is the frontend of **Utility Hub**, a full-stack project built to showcase **CRUD operations, authentication, and integration with a backend API**.  
 
 The UI is dark-themed, clean, and consistent, but the focus of this project is **logic and functionality**.
