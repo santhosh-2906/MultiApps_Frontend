@@ -64,9 +64,7 @@ const Expenses = () => {
       <h2 className="mb-4">My Expenses</h2>
 
       <form onSubmit={handleSubmit} className="mb-3">
-        {/* Replaced input-group with d-flex for a better layout */}
         <div className="d-flex align-items-center mb-2">
-          {/* Added me-2 for spacing between input fields */}
           <input
             type="number"
             className="form-control me-2"
@@ -75,7 +73,6 @@ const Expenses = () => {
             onChange={(e) => setAmount(e.target.value)}
             required
           />
-          {/* Added me-2 for spacing between input and button */}
           <input
             type="text"
             className="form-control me-2"
