@@ -6,7 +6,7 @@ The UI is dark-themed, clean, and consistent, but the focus of this project is *
 ---
 ## 🌐 Live Demo
 
-[Frontend deployed on Vercel](https://multi-apps-frontend.vercel.app/)
+[Deployed on Vercel](https://multi-apps-frontend.vercel.app/)
 
 ##  Features
 - **Authentication**: Login & Register with persistent session using `localStorage`.
