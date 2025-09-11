@@ -4,6 +4,9 @@ This is the frontend of **Utility Hub**, a full-stack project built to showcase 
 The UI is dark-themed, clean, and consistent, but the focus of this project is **logic and functionality**.
 
 ---
+## 🌐 Live Demo
+
+[Frontend deployed on Vercel](https://multi-apps-frontend.vercel.app/)
 
 ##  Features
 - **Authentication**: Login & Register with persistent session using `localStorage`.
